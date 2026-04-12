@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Sharan&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Startup%20Builder&descAlignY=55&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sharan M</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Startup+Builder;Building+Real+World+Projects;Future+Founder" />
-</p>
-
 ---
 
 ## 🚀 About Me  
