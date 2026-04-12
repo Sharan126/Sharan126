@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Sharan&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Startup%20Builder&descAlignY=55&animation=fadeIn" />
 </p>
-
 ---
 
 ## 🚀 About Me  
