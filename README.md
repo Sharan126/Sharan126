@@ -15,14 +15,7 @@
 
 ---
 
-## 🧠 What I Do  
 
-- 💻 Build Full Stack Applications  
-- ⚡ Create Automation Systems  
-- 🚀 Develop Startup Ideas  
-- 🌐 Design User-Focused Products  
-
----
 
 ## 🛠 Tech Stack  
 
