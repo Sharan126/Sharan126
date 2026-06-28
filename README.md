@@ -4,11 +4,6 @@
   </a>
 
   <br/>
-  
-  <p align="center">
-    <img src="Subtle_cinematic_animation_-ezgif.com-optimize.gif" alt="Sharan's Superhero Poster" width="650" />
-  </p>
-
   <p align="center">
     <a href="mailto:sm9505659@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/sharan-meti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
