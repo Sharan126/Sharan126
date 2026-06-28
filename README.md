@@ -4,6 +4,7 @@
   </a>
 
   <br/>
+  
   <p align="center">
     <a href="mailto:sm9505659@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/sharan-meti/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
@@ -15,7 +16,7 @@
 
 ### 🔥 The Elevator Pitch
 > **Mechanical Engineering mind. Software Engineering execution.** <br/>
-> I am an engineering student (Mech'28) and full-stack developer who builds scalable applications and AI-driven solutions. From maintaining a **180+ day active coding streak** to earning my **AWS Educate Generative AI certification**, I am obsessed with continuous growth, open-source collaboration, and solving real-world problems. 
+> I am an engineering student (Mech'28) and full-stack developer who builds scalable applications and AI-driven solutions. From maintaining a **230+ day active coding streak** I am obsessed with continuous growth, open-source collaboration, and solving real-world problems. 
 
 <br/>
 
@@ -25,13 +26,25 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌬️ AI-Driven Micro Fan Pods</h4>
-      <i>🥉 3rd Place - National Level Hackathon (AIET)</i><br/>
+      <b><mark>&nbsp;🥉 3rd Place - National Level Hackathon (AIET)&nbsp;</mark></b><br/><br/>
       Built an ML-based cooling control system designed to efficiently detect and reduce hotspot temperatures in data centers and high-heat environments.
     </td>
     <td width="50%" valign="top">
       <h4>🌾 eSanthe (Smart Agriculture)</h4>
-      <i>🌟 National Hackathon Shortlist</i><br/>
+      <b><mark>&nbsp;🌟 National Hackathon Shortlist(AIET)&nbsp;</mark></b><br/><br/>
       Developed a platform to digitalize traditional rural markets (Santhe), bringing modern technology and accessibility to rural farming communities.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Gramya AI</h4>
+      <b><mark>&nbsp;🌟 AI for Bharat Hackathon Shortlist (HackerEarth)&nbsp;</mark></b><br/><br/>
+      Intelligent AI architecture designed to process language and empower rural or localized digital ecosystems.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Docushield AI</h4>
+      <b><mark>&nbsp;🌟 Canara Bank Suraksha Hackathon Shortlist (HackerEarth)&nbsp;</mark></b><br/><br/>
+      AI-powered document security and shielding platform designed to ensure secure verification and data integrity.
     </td>
   </tr>
 </table>
@@ -43,11 +56,6 @@
 <table width="100%" align="center">
   <tr>
     <td width="33%" valign="top">
-      <h4>🤖 Gramya AI</h4>
-      <i>Generative AI / NLP</i><br/>
-      Intelligent AI architecture designed to process language and empower rural or localized digital ecosystems.
-    </td>
-    <td width="33%" valign="top">
       <h4>🩺 Twacha AI</h4>
       <i>Computer Vision / Healthcare</i><br/>
       AI-powered diagnostic tool utilizing visual analysis to monitor skin health and dermatological conditions.
@@ -57,13 +65,13 @@
       <i>Automation & Tooling</i><br/>
       Developer-focused automation suite and copilot designed to streamline complex technical workflows.
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h4>🍔 Bomato</h4>
       <i>Full-Stack Application</i><br/>
       Scalable restaurant and food-delivery platform featuring real-time ordering and a dynamic user interface.
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h4>🐍 Python Arsenal</h4>
       <i>Algorithms & Systems</i><br/>
@@ -72,7 +80,12 @@
     <td width="33%" valign="top">
       <h4>✍️ Digital Platforms</h4>
       <i>Content Architecture</i><br/>
-      Engineered and currently manage the <b>GrowthDiary</b> blog  global news hub.
+      Engineered and currently manage the <b>GrowthDiary</b> blog and the <b>OmniCognito</b> global news hub.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎮 C++ & C# Systems</h4>
+      <i>Interactive Game Logic</i><br/>
+      Engineered interactive systems (Music Asteroids & The Island) focusing on OOP, memory management, and complex logic.
     </td>
   </tr>
 </table>
@@ -100,5 +113,5 @@
 
 <div align="center">
   <i>"Don't prepare for interviews. Prepare to become the engineer companies want to hire."</i><br/>
-  <b>Ask me about: Tech Architectures, Prompt Engineering, Hackathons! 🏏</b>
+  <b>Ask me about: competitions, Hackathons! 🏏</b>
 </div>
