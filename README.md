@@ -1,107 +1,56 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Sharan&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Startup%20Builder&descAlignY=55&animation=fadeIn" />
-</p>
+<div align="center">
+  <h1>Hey there, I'm Sharan M! 👋</h1>
+  <h3>Full Stack Developer | Startup Builder | AI Enthusiast</h3>
+  
+  <p align="center">
+    <img src="Subtle_cinematic_animation_-ezgif.com-optimize.gif" alt="Superhero 3D Profile Poster" width="600" />
+  </p>
 
-## 🧠 What ID
-
-- 💻 Build Full Stack Applications  
-- ⚡ Create Automation Systems  
-- 🚀 Develop Startup Ideas  
-- 🌐 Design User-Focused Products  
-
----
-## 🚀 About Me  
-
-💡 I’m a developer focused on building **real-world and scalable applications**  
-
-- 🎓 Engineering Student  
-- ⚙️ Building full-stack & automation projects  
-- 🚀 Exploring SaaS & startup ideas  
-- 🌱 Currently learning advanced backend systems  
-- 🎯 Goal: Build products that solve real problems  
+  <p>
+    <a href="mailto:sm9505659@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/sharan-meti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
 ---
 
+### 🚀 About Me
+💡 I’m an Engineering Student at **Tontadarya College of Engineering (VTU)** focused on building *real-world and scalable applications*.
+- 💻 I actively build full-stack applications and automation systems using **Python, JavaScript, and Node.js**.
+- 🤖 I'm highly interested in **Generative AI models** and modern tech architectures.
+- ✍️ I manage digital content platforms, including the **GrowthDiary** blog and the **OmniCognito** news hub.
+- 🏆 I love competing in hackathons! Recently participated in the **Road Safety Hackathon**, **The Social Hackathon**, and more.
+- 🎯 **Goal:** Build products that solve real problems.
+- 🏏 **Ask me about:** Tech architectures, prompt engineering, or the latest RCB and CSK cricket matches!
 
----
+### 🛠️ Tech Stack & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,github,git,cpp,cs" />
+</div>
 
-## 🛠 Tech Stack  
+### 🚀 Featured Projects
+**🎮 Music Asteroids**
+- Game built using C++
+- Focus: Logic building & gameplay mechanics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,react,nodejs,mongodb,firebase,git,github,vscode" />
-</p>
+**🏝 The Island (C# Game)**
+- Interactive game system
+- Focus: Object-oriented programming
 
----
+**🥚 Golden Egg**
+- Concept-driven development project
 
-## 🚀 Featured Projects  
+### 🚀 Startup Vision
+💡 I’m building towards:
+- SaaS Products
+- Automation Tools
+- Scalable Systems
 
-### 🎮 Music Asteroids  
-- Game built using C++  
-- Focus: Logic building & gameplay mechanics  
+🔥 **Long-term goal:** Launch my own startup.
 
-### 🏝 The Island (C# Game)  
-- Interactive game system  
-- Focus: Object-oriented programming  
-
-### 🥚 Golden Egg  
-- Concept-driven development project  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharan126&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sharan126&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Startup Vision  
-
-💡 I’m building towards:  
-- SaaS Products  
-- Automation Tools  
-- Scalable Systems  
-
-🔥 Long-term goal: Launch my own startup  
-
----
-
-## 🌐 Connect  
-
-<p align="center">
-  <a href="https://github.com/Sharan126">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/Sharan126/Sharan126/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">🔥 Building. Learning. Growing. 🚀</h3>
-
-<!--
-**Sharan126/Sharan126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharan126&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan126&theme=tokyonight" alt="GitHub Streak" />
+</div>
