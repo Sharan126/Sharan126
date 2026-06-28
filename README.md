@@ -31,7 +31,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🌾 eSanthe (Smart Agriculture)</h4>
-      <b><mark>&nbsp;🌟 National Hackathon Shortlist(AIET)&nbsp;</mark></b><br/><br/>
+      <b><mark>&nbsp;🌟 National Level Hackathon Shortlist(AIET)&nbsp;</mark></b><br/><br/>
       Developed a platform to digitalize traditional rural markets (Santhe), bringing modern technology and accessibility to rural farming communities.
     </td>
   </tr>
