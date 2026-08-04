@@ -26,24 +26,24 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌬️ AI-Driven Micro Fan Pods</h4>
-      <b><mark>&nbsp;🥉 3rd Place - National Level Hackathon (AIET)&nbsp;</mark></b><br/><br/>
+      <b><mark>&nbsp;🥉 3rd Prize - National Level Hackathon (AIET)&nbsp;</mark></b><br/><br/>
       Built an ML-based cooling control system designed to efficiently detect and reduce hotspot temperatures in data centers and high-heat environments.
     </td>
     <td width="50%" valign="top">
       <h4>🌾 eSanthe (Smart Agriculture)</h4>
-      <b><mark>&nbsp;🌟 National Level Hackathon Shortlist(AIET)&nbsp;</mark></b><br/><br/>
+      <b><mark>&nbsp;🌟 National Level Hackathon Finalist(AIET)&nbsp;</mark></b><br/><br/>
       Developed a platform to digitalize traditional rural markets (Santhe), bringing modern technology and accessibility to rural farming communities.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 Gramya AI</h4>
-      <b><mark>&nbsp;🌟 AI for Bharat Hackathon Shortlist (HackerEarth)&nbsp;</mark></b><br/><br/>
+      <b><mark>&nbsp;🌟 AI for Bharat Hackathon Finalist (HackerEarth)&nbsp;</mark></b><br/><br/>
       Intelligent AI architecture designed to process language and empower rural or localized digital ecosystems.
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ Docushield AI</h4>
-      <b><mark>&nbsp;🌟 Canara Bank Suraksha Hackathon Shortlist (HackerEarth)&nbsp;</mark></b><br/><br/>
+      <b><mark>&nbsp;🌟 Canara Bank Suraksha Hackathon Finalist (HackerEarth)&nbsp;</mark></b><br/><br/>
       AI-powered document security and shielding platform designed to ensure secure verification and data integrity.
     </td>
   </tr>
