@@ -14,7 +14,7 @@
 
 ---
 
-### 🔥 The Elevator Pitch
+### 🔥 The Elevator Pitc
 > **Mechanical Engineering mind. Software Engineering execution.** <br/>
 > I am an engineering student (Mech'28) and full-stack developer who builds scalable applications and AI-driven solutions. From maintaining a **230+ day active coding streak** I am obsessed with continuous growth, open-source collaboration, and solving real-world problems. 
 
