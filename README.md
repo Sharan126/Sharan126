@@ -24,12 +24,11 @@
 
 <table width="100%" align="center">
   <tr>
-     <td width="50%" valign="top">
-    ### 🏆 Karnataka Biosecurity Network
-
-🥇 **1st Place – HackGenesis Hackathon (KLE College, Belagavi)**
-
-Developed the **Karnataka Biosecurity Network**, a digital platform for **monitoring, assessing, and responding to biosecurity threats**. The solution leverages technology and data-driven intelligence to enable **early risk detection, real-time awareness, and faster coordinated response**.
+    <td width="50%" valign="top">
+      <h4>🌬️ Karnataka Biosecurity Network</h4>
+      <b><mark>&nbsp;1st Place – National Level Hackathon (KLE College, Belagavi)&nbsp;</mark></b><br/><br/>
+     AI-powered livestock health network designed for early disease detection, animal health monitoring, biosecurity, and connecting farmers with veterinary support.
+    </td>
     <td width="50%" valign="top">
       <h4>🌬️ AI-Driven Micro Fan Pods</h4>
       <b><mark>&nbsp;🥉 3rd Prize - National Level Hackathon (AIET)&nbsp;</mark></b><br/><br/>
